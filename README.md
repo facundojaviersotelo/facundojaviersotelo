@@ -26,7 +26,7 @@ Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con exper
   - Visual Studio
 
 ### 📫 Conéctate Conmigo
-- **LinkedIn**: [https://www.linkedin.com/in/facundosotelo/](https://www.linkedin.com/in/facundojaviersotelo)
+- **LinkedIn**: [https://www.linkedin.com/in/facundosotelo/](https://www.linkedin.com/in/facundosotelo)
 - **Correo Electrónico**: f.sotelo@live.com
 
 ---

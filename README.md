@@ -25,16 +25,6 @@ Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con exper
   - Visual Studio Code
   - Visual Studio
 
-### 📈 Proyectos Destacados
-- **[Proyecto 1]**: [Descripción breve del proyecto, tecnologías utilizadas, logros, etc.]
-- **[Proyecto 2]**: [Descripción breve del proyecto, tecnologías utilizadas, logros, etc.]
-- **[Proyecto 3]**: [Descripción breve del proyecto, tecnologías utilizadas, logros, etc.]
-
-### 🌟 Logros y Reconocimientos
-- **[Logro 1]**: [Descripción del logro]
-- **[Logro 2]**: [Descripción del logro]
-- **[Logro 3]**: [Descripción del logro]
-
 ### 📫 Conéctate Conmigo
 - **LinkedIn**: [https://www.linkedin.com/in/facundosotelo/](https://www.linkedin.com/in/facundojaviersotelo)
 - **Correo Electrónico**: f.sotelo@live.com

@@ -17,6 +17,9 @@ Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con exper
   - HTML
   - CSS
   - JavaScript
+ 
+- **Bases de Datos**:
+  - SQL Server
 
 - **Frameworks y Librerías**:
   - .NET

@@ -27,6 +27,7 @@ Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con exper
 - **Herramientas y Tecnologías**:
   - Visual Studio Code
   - Visual Studio
+  - SQL Server Management Studio
 
 ### 📫 Conéctate Conmigo
 - **LinkedIn**: [https://www.linkedin.com/in/facundosotelo/](https://www.linkedin.com/in/facundosotelo)

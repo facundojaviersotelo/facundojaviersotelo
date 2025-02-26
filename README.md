@@ -1,5 +1,5 @@
 
-## 👋 ¡Hola! Bienvenidos a mi perfil de GitHub
+## <img src="./Hola.png" alt="Hola" width="25"/> ¡Hola! Bienvenidos a mi perfil de GitHub
 
 
 ![Banner](./Banner_GitHub.png)

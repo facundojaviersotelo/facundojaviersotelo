@@ -1,6 +1,10 @@
-# Facundo Javier Sotelo
 
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
+
+
+![Banner](./Banner%20para%20Linkedin%20Community%20de%20Facundo%20Sotelo.png)
+
+
 
 Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con experiencia en VB6 | C# | VB.NET | .NET | SQL Server | HTML | CSS | Bootstrap | JavaScript. Me encanta crear soluciones innovadoras y enfrentar desafíos tecnológicos.
 

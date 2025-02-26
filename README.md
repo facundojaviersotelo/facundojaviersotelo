@@ -15,12 +15,7 @@ Soy **Facundo Javier Sotelo**, un apasionado desarrollador de software con exper
 
 ### 💻 Habilidades Técnicas
 - **Lenguajes de Programación**:
-  - VB6
-  - C#
-  - VB.NET
-  - HTML
-  - CSS
-  - JavaScript
+  ## VB6 C# VB.NET HTML CSS JavaScript
  
 - **Bases de Datos**:
   - SQL Server

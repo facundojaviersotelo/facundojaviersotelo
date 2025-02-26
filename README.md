@@ -1,5 +1,5 @@
 
-## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
+## 👋 ¡Hola! Bienvenidos a mi perfil de GitHub
 
 
 ![Banner](./Banner%20para%20Linkedin%20Community%20de%20Facundo%20Sotelo.png)
